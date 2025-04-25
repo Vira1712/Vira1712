@@ -1,0 +1,17 @@
+Proyek ini merupakan tugas dari mata kuliah SIG Berbasis Internet pada program studi Teknik Geomatika UPN “Veteran” Yogyakarta. Website ini menampilkan berbagai jenis peta digital (statis, dinamis, interaktif) dan dilengkapi dengan peta interaktif berbasis Leaflet.js yang menyajikan informasi lokasi dan rute.
+
+✨ Fitur Utama
+✅ Desain responsif menggunakan Bootstrap 5
+✅ Penjelasan lengkap tentang jenis-jenis peta digital
+✅ Tabel interaktif dan ilustrasi gambar peta
+✅ Peta interaktif dengan marker:
+-Asrama Putra & Putri
+-Gedung Kuliah dan Perpustakaan
+-Fasilitas Pondok Pesantren
+✅ Fitur routing/direction dari lokasi pengguna ke titik tujuan
+✅ Marker yang bisa digeser (draggable) untuk simulasi lokasi pengguna
+
+🧑‍💻 Dibuat oleh
+Vira Ananda Syakina (117220043)
+Teknik Geomatika UPN “Veteran” Yogyakarta
+
